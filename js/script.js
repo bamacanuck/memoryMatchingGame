@@ -26,43 +26,43 @@ const cardsArray = [
     },
 
     {
-        name:
+        name: 'bulletbill'
 
-        img: 'img/.png'
+        img: 'img/bulletbill.png'
     },
 
     {
-        name:
+        name: 'mushroom'
 
-        img: 'img/.png'
+        img: 'img/mushroom.png'
     },
 
     {
-        name:
+        name: 'coin'
 
-        img: 'img/.png'
+        img: 'img/coin.png'
     },
 
     {
-        name:
+        name: 'bobomb'
 
-        img: 'img/.png'
+        img: 'img/bobomb.png'
     },
 
     {
-        name:
+        name: 'peach'
 
-        img: 'img/.png'
+        img: 'img/peach.png'
     },
 
     {
-        name:
+        name: '1up'
 
-        img: 'img/.png'
+        img: 'img/1up.png'
     },
 
     {
-        name:
+        name: ''
 
         img: 'img/.png'
     },
