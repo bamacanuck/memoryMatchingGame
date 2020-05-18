@@ -1,0 +1,5 @@
+// the cards
+
+const cardsArray = [
+    
+]
