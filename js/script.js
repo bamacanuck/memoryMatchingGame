@@ -1,4 +1,4 @@
-// the cards
+// the matchy-matchy cards
 
 const cardsArray = [
     {
@@ -8,68 +8,68 @@ const cardsArray = [
     },
 
     {
-        name: 'mario'
+        name: 'mario',
 
         img: 'img/mario.png'
     },
 
     {
-        name: 'luigi'
+        name: 'luigi',
 
         img: 'img/luigi.png'
     },
 
     {
-        name: 'star'
+        name: 'star',
 
         img: 'img/star.png'
     },
 
     {
-        name: 'bulletbill'
+        name: 'bulletbill',
 
         img: 'img/bulletbill.png'
     },
 
     {
-        name: 'mushroom'
+        name: 'mushroom',
 
         img: 'img/mushroom.png'
     },
 
     {
-        name: 'coin'
+        name: 'coin',
 
         img: 'img/coin.png'
     },
 
     {
-        name: 'bobomb'
+        name: 'bobomb',
 
         img: 'img/bobomb.png'
     },
 
     {
-        name: 'peach'
+        name: 'peach',
 
         img: 'img/peach.png'
     },
 
     {
-        name: '1up'
+        name: '1up',
 
         img: 'img/1up.png'
     },
 
     {
-        name: ''
+        name: 'thwomp',
 
-        img: 'img/.png'
+        img: 'img/thwomp.png'
     },
 
     {
-        name:
+        name: 'goomba',
 
-        img: 'img/.png'
+        img: 'img/goomba.png'
     },
 ]
