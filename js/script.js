@@ -4,25 +4,25 @@ const cardsArray = [
     {
         name: 'shell',
 
-        img: 'img/.png'
+        img: 'img/blueshell.png'
     },
 
     {
-        name:
+        name: 'mario'
 
-        img: 'img/.png'
+        img: 'img/mario.png'
     },
 
     {
-        name:
+        name: 'luigi'
 
-        img: 'img/.png'
+        img: 'img/luigi.png'
     },
 
     {
-        name:
+        name: 'star'
 
-        img: 'img/.png'
+        img: 'img/star.png'
     },
 
     {
