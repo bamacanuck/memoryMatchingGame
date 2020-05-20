@@ -1,6 +1,6 @@
-// the matchy-matchy cards
+  // the matchy-matchy cards
 
-const cardsArray = [
+  const cardsArray = [
     {
         name: 'shell',
 
@@ -72,7 +72,7 @@ const cardsArray = [
 
         img: 'img/goomba.png'
     },
-];
+]
 
 // ============================================================
 
@@ -81,10 +81,10 @@ const game = document.getElementById('game');
 
 // Create a section with a class of grid
 const grid = document.createElement('section');
-grid.setAttribute('class', 'grid');
+grid.setAttribute('class', 'grid')
 
 // Append the grid section to the game div
-game.appendChild(grid);
+game.appendChild(grid)
 
 // ============================================================
 
@@ -104,3 +104,4 @@ cardsArray.forEach(item => {
     // Append the div to the grid section
     grid.appendChild(card)
   })
+
