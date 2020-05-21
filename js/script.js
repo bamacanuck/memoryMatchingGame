@@ -1,4 +1,4 @@
-  // the matchy-matchy cards
+// our matchy-matchy cards
 
   const cardsArray = [
     {
