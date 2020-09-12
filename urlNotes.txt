@@ -9,6 +9,10 @@ https://medium.com/@khaledhassan45/how-to-make-a-simple-matching-game-using-vani
 
 
 
+https://medium.com/@adamichelllle/building-a-memory-matching-game-in-javascript-48e792c7b563
+
+
+
 also
 
 https://taniarascia.github.io/memory/
